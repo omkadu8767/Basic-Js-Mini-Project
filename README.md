@@ -1,4 +1,5 @@
 "# Basic-Js-Mini-Project" 
+# Open Simon Game:- https://omkadu8767.github.io/Basic-Js-Mini-Project/
 
 # Simon Game
 
